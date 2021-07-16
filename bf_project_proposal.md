@@ -4,7 +4,9 @@
 
 ### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-Which are the greatest areas of impact for community solar installations and improving building's energy efficiency? Develop a model to predict which census tracts to focus on to better utilize volunteer canvasing hours and financial resources. It will also use the area's heating fuel and number of heating days to determine which houses will also benefit from energy efficiency upgrades like electric heat pumps. The purpose of the model is:
+Which are the greatest areas of impact for community solar installations and improving building's energy efficiency? Develop a model to predict which census tracts to focus on to better utilize volunteer outreach hours and financial resources of the non-profit GRID Alternatives. It will also use the census tract's dominant heating fuel and number of heating days to determine which areas use natural gas that would benefit from energy efficiency upgrades like electric heat pumps.
+
+The purpose of the model is:
 
 Predict or Identify: Given existing solar installation locations, which locations will be more likely to adopt solar? (From DeepSolar ML analysis, a relationship has already been established between proximity of existing solar panels and desire to install solar.)
 
@@ -13,7 +15,7 @@ Prescription: After finding these locations, filter the data for suitable roofto
 "Community solar expands access to solar for all, including in particular low-to-moderate income customers most impacted by a lack of access, all while building a stronger, distributed, and more resilient electric grid.")
 
 Opportunity
-Bring solar power and lower energy bills to low-income households via community shared solar projects.
+Bring solar power and lower energy bills to low-income households via community shared solar projects and energy efficiency upgrades where possible.
 
 ### Who benefits from exploring this question or building this model/system?
 
@@ -71,3 +73,5 @@ Sun Run: helping them target where their sales efforts should go. I have a way t
 Trane, Carrier/Rheem, AO Smith: pitch to air/water heat pump company on who to target for home electrification (already existing solar homes)
 
 Energy for All - A program of GRID Alternatives:  Develop a model to predict which neighborhoods to focus on and canvas to better utilize volunteer hours and 
+
+Complication: Why do community solar and energy efficiency upgrades together? Most renters don't have control over their building to make energy efficiency changes.
