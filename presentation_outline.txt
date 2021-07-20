@@ -1,0 +1,25 @@
+Business Fundamentals Presentation
+
+Slide 1:
+Introduce myself
+
+Slide 2:
+Outline?
+
+Slides 3-5: quick background
+
+3: Shows steady to moderate growth in residential and community solar
+4: However, growth was highly underpredicted in 2002 (red), 2010 (pink), 2012 (lt. blue), and 2015 (although here prediction is getting better finally)
+5: At the same time, 1 in 3 U.S. households experience energy insecurity; they spend a disproportionate amount of income on utilities at 8.5%. Adopting solar can lower monthly utility bills, but many primarily lower-income households rent, live in multi-tenant buildings, have unsuitable roofs, or just can't afford a solar PV installation.
+
+Slide 6:
+Energy for All already addresses this by partnering with utilities and community groups to develop community shared solar arrays to benefit those households.
+I propose to use machine learning to more effectively reach even more low-income and underserved households.
+
+Slide 7:
+The success metrics will be ...
+
+Slide 8:
+Project Sunroof uses Google Maps satellite images to estimate the solar potential of rooftops of each census tract. It also creates a list of each rooftops solar panel capacity.
+DeepSolar used the same imaging to identify the rooftops with existing solar PV systems; this is the first comprehensive list of existing solar installations.
+Use an unsupervised machine learning algorithm to group clusters of census tracts that are alike with features that influence solar adoption. Find the cluster with the highest existing solar systems.
